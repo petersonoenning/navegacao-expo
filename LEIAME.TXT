@@ -1,0 +1,9 @@
+expo init nomedoprojeto
+
+@react-native-community/masked-view
+@react-navigation/native
+@react-navigation/stack
+@react-native-gesture-handler
+react-native-reanimated
+react-native-safe-area-contexto
+react-native-screens
